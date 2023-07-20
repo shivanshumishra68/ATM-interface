@@ -1,4 +1,4 @@
-# JAVA-TASK-2-Oasis-Infobyte
+ATM Interface
 An Interface for ATM using JAVA.
 in which thebuser get to register.
 and then get to login using username and password created previously.
